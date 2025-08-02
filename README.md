@@ -62,8 +62,10 @@
 
 <h3 align="center">🛠 Tools 🛠</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/IntelliJ IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=vscode&logoColor=22ABF3" />&nbsp
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/VSCode-2C2C32?style=for-the-badge&logo=visualstudiocode&logoColor=22ABF3" />&nbsp;
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />&nbsp;
 </div>
 
 <br>
