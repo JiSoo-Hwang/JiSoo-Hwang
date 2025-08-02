@@ -3,7 +3,7 @@
 <div align="center">
   
   <!--Header-->
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Ji%20Soo%20Hwang's%20Dev%20Space%20%f0%9f%8c%bf&fontSize=40)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Soleleaf's%20Dev%20Space%20%f0%9f%8c%bf&fontSize=40)
   
 </div>
 
