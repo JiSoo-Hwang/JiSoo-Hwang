@@ -16,8 +16,6 @@
   <img src="https://img.shields.io/badge/MyBatis-0052CC?style=for-the-badge&logo=mybatis&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />&nbsp;
 </div>
-
-<br>
   
 <div align="center">
   <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=JUnit5&logoColor=white" />&nbsp
